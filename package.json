@@ -1,0 +1,13 @@
+{
+  "name": "repo-216",
+  "version": "1.0.0",
+  "description": "A Javascript workflow implementation using Express and Angular and Webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
